@@ -5,5 +5,5 @@
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning projects.
 - 👯 I’m looking forward to contribute more to Open Source projects.
-- 🥅 2020 Goals: To be a better version of myself.
+- 🥅 2020 Goals: My only goal is to keep learning and be a better version of myself.
 
