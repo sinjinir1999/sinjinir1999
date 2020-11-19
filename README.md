@@ -7,8 +7,3 @@
 - 👯 I’m looking to contribute more to Open Source projects
 - 🥅 2020 Goals: To be a better version of myself.
 
-</details>
-
-[linkedin]: https://www.linkedin.com/in/sinjini-roy-5870bb158
-[github]: https://github.com/sinjinir1999
-[kaggle]: https://www.kaggle.com/sinjinir1999
