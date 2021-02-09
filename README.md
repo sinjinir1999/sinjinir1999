@@ -1,4 +1,4 @@
-###  Hey, I'm Sinjini - aka [sinjinir1999]👋
+###  Hey, I'm Sinjini🍁  
 
 
 ## I'm a Data Science and Machine Learning enthusiast !!!
