@@ -1,4 +1,4 @@
-###  Hey, I'm Sinjini🍁  
+###  Hey, I'm Sinjini🌻
 
 
 ## I'm a Data Science and Machine Learning enthusiast !!!
