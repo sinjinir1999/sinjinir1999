@@ -15,4 +15,5 @@
 <a href="https://www.linkedin.com/in/sinjini-roy-5870bb158/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 <br>
+![Sinjini's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinjinir1999&count_private=true&hide=prs,issues,contribs,stars&show_icons=true&theme=dark)
 
