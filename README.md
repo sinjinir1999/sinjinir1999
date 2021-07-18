@@ -16,3 +16,8 @@
 </p>
 <br>
 
+<a href="https://github.com/sinjinir1999/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.sinjinir1999.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sinjini's github stats" />
+</a>
+
+
