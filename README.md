@@ -16,6 +16,19 @@
 </p>
 <br>
 
+### 📊 Weekly Development Stats
+<!--START_SECTION:waka-->
+```text
+Week: 31 July, 2021 - 6 August, 2021
+
+Python     12 hrs 24 mins  ████████████████▒░░░░░░░░   65.19 % 
+Other      3 hrs 55 mins   █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+SQL        1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Markdown   50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+CSS        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+```
+<!--END_SECTION:waka-->
+
 <a href="https://github.com/sinjinir1999/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sinjinir1999&count_private=true&hide=prs,issues,contribs,stars&show_icons=true&theme=dark" alt="Sinjini's github stats" />
 </a>
