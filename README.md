@@ -2,6 +2,7 @@
 
 
 ## I'm a Data Science and Machine Learning enthusiast !!!
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 - 🎓 I’m pursuing Integrated MSc in Mathematics and Computing from Birla Institute of Technology, Mesra.
 - 🔭 I’m currently working on Machine Learning and Deep Learning projects.
@@ -20,7 +21,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sinjinir1999&count_private=true&hide=prs,issues,contribs,stars&show_icons=true&theme=dark" alt="Sinjini's github stats" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinjinir1999&layout=compact&text_color=daf7dc&bg_color=151515)]
 
 
 
