@@ -2,7 +2,7 @@
 
 
 ## I'm a Data Science and Machine Learning enthusiast !!!
-![image](https://user-images.githubusercontent.com/67474818/128614040-f323fd9a-ae3d-45ae-8df9-208bc636657c.png)
+![](https://raw.githubusercontent.com/demartini/demartini/master/code.gif)
 
 
 - 🎓 I’m pursuing Integrated MSc in Mathematics and Computing from Birla Institute of Technology, Mesra.
