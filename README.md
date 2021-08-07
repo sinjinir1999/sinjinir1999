@@ -3,7 +3,7 @@
 
 ## I'm a Data Science and Machine Learning enthusiast !!!
 ![](https://raw.githubusercontent.com/demartini/demartini/master/code.gif)
-
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 - 🎓 I’m pursuing Integrated MSc in Mathematics and Computing from Birla Institute of Technology, Mesra.
 - 🔭 I’m currently working on Machine Learning and Deep Learning projects.
@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/sinjini-roy-5870bb158/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 <br>
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
 <a href="https://github.com/sinjinir1999/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sinjinir1999&count_private=true&hide=prs,issues,contribs,stars&show_icons=true&theme=dark" alt="Sinjini's github stats" />
 </a>
