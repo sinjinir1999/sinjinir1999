@@ -1,7 +1,7 @@
 ###  Hey, I'm Sinjini 🙋
 
+## Business Analyst Intern @ OYE! Rickshaw | Data Science | Machine Learning | Deep Learning | Natural Language Processing | Computer Vision
 
-Business Analyst Intern @ OYE! Rickshaw | Data Science | Machine Learning | Deep Learning | Natural Language Processing | Computer Vision
 ![](https://raw.githubusercontent.com/demartini/demartini/master/code.gif)
 
 - 🎓 I’m pursuing Integrated MSc in Mathematics and Computing from Birla Institute of Technology, Mesra.
