@@ -1,6 +1,6 @@
 ###  Hey, I'm Sinjini 🙋
 
-## Analytics  ||  Data Science  ||  Machine Learning  ||  Deep Learning 
+##                                      Analytics  ||  Data Science  ||  Machine Learning  ||  Deep Learning 
 
 ![](https://raw.githubusercontent.com/demartini/demartini/master/code.gif)
 
