@@ -1,6 +1,6 @@
 ###  Hey, I'm Sinjini 🙋
 
-## Business Analyst Intern @ OYE! Rickshaw | Data Science | Machine Learning | Deep Learning | Natural Language Processing | Computer Vision
+## Data Science | Machine Learning | Deep Learning | Natural Language Processing | Computer Vision
 
 ![](https://raw.githubusercontent.com/demartini/demartini/master/code.gif)
 
