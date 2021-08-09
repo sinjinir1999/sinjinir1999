@@ -1,6 +1,6 @@
 ###  Hey, I'm Sinjini 🙋
 
-## Data Science | Machine Learning | Deep Learning | Natural Language Processing | Computer Vision
+## Data Science  ||  Machine Learning  ||  Deep Learning 
 
 ![](https://raw.githubusercontent.com/demartini/demartini/master/code.gif)
 
