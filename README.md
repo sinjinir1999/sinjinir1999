@@ -1,9 +1,8 @@
-
-###  Hey, I'm Sinjini 🙋
-
+![SINJINI ROY](https://user-images.githubusercontent.com/67474818/128884934-b6087a83-fa0f-45af-8a7b-a99b3c5f1865.gif)
 ## Analytics  ||  Data Science  ||  Machine Learning  ||  Deep Learning 
 
-![SINJINI ROY](https://user-images.githubusercontent.com/67474818/128884934-b6087a83-fa0f-45af-8a7b-a99b3c5f1865.gif)
+
+###  Hey, I'm Sinjini 🙋
 
 - 🎓 I’m pursuing Integrated MSc in Mathematics and Computing from Birla Institute of Technology, Mesra.
 - 👀 I’m currently working on Machine Learning and Deep Learning projects.
