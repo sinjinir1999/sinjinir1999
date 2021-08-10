@@ -1,10 +1,9 @@
-![SINJINI ROY](https://user-images.githubusercontent.com/67474818/128884934-b6087a83-fa0f-45af-8a7b-a99b3c5f1865.gif)
 
 ###  Hey, I'm Sinjini 🙋
 
 ## Analytics  ||  Data Science  ||  Machine Learning  ||  Deep Learning 
 
-![](https://raw.githubusercontent.com/demartini/demartini/master/code.gif)
+![SINJINI ROY](https://user-images.githubusercontent.com/67474818/128884934-b6087a83-fa0f-45af-8a7b-a99b3c5f1865.gif)
 
 - 🎓 I’m pursuing Integrated MSc in Mathematics and Computing from Birla Institute of Technology, Mesra.
 - 👀 I’m currently working on Machine Learning and Deep Learning projects.
