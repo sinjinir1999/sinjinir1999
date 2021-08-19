@@ -13,7 +13,7 @@
 <a href="https://www.kaggle.com/sinjinir1999"><img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" width = "80px" height = "25px"/></a>&nbsp;
 <a href="mailto:sinjiniroy1999@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/sinjini-roy-5870bb158/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://drive.google.com/file/d/12XyD0wzgTXFAqq3pS7n-D3ucso-mBgMW/view?usp=sharing"><img src="https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Resume"/></a>&nbsp;
+<a href="https://drive.google.com/file/d/1e2xsxyz5ktLAQKdJLB1U4F_VcUY3_v7b/view?usp=sharing" alt="Resume"/></a>&nbsp;
 </p>
 <br>
 
