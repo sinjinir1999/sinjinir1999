@@ -1,6 +1,6 @@
 ![SINJINI ROY](https://user-images.githubusercontent.com/67474818/128884934-b6087a83-fa0f-45af-8a7b-a99b3c5f1865.gif)
 
-# Analytics  ||  Data Science  ||  Machine Learning  ||  Deep Learning 
+# Analytics  |  Data Science  |  Machine Learning  |  Deep Learning 
 
 ###  Hey, I'm Sinjini 🙋
 
