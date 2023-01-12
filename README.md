@@ -4,8 +4,8 @@
 
 ###  Hey, I'm Sinjini 🙋
 
-- 🎓 I’m pursuing Integrated MSc in Mathematics and Computing from Birla Institute of Technology, Mesra.
-- 👀 I’m currently working on Machine Learning and Deep Learning projects.
+- 🎓 Integrated MSc in Mathematics and Computing from Birla Institute of Technology, Mesra.
+- 👀 I’m currently as a Data Analyst at Mobile Premier League (MPL).
 - 🚀 My only goal is to keep learning and be a better version of myself.
 - 💻 You can reach out to me, click ⬇️ 
 <p align="center">
